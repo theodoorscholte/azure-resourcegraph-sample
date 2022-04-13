@@ -1,0 +1,4 @@
+azure-mgmt-resourcegraph>=8.0.0
+azure-mgmt-resource>=21.0.0
+azure-cli-core>=2.35.0
+azure-identity>=1.9.0
